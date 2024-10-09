@@ -1,0 +1,10 @@
+/*general*/
+@import url("general/pozition.css");
+@import url("general/reset.css");
+
+/*animate*/
+@import url("animate/aos.css");
+
+/*pages*/
+@import url("pages/welcome.css");
+
